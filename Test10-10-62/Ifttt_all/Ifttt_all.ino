@@ -7,9 +7,9 @@ char ssid[] = "TA_HOME";
 char password[] = "TA123456";
 #define KEY "hK2P_R3jm24tUl15IkAPUJ7_TobcZeypSpb1t9VNaac"
 
-#define EVENT_NAME_GOOGLESHEET "Esp32Test"
-#define EVENT_NAME_mess "Tem"
-#define EVENT_NAME_page "Hum"
+#define EVENT_NAME_GOOGLESHEET "line"
+#define EVENT_NAME_mess "line"
+#define EVENT_NAME_page "line"
 DHTesp dht;
 
 int dht22 = 23;
