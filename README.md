@@ -1,6 +1,6 @@
 # Internet-of-Things-IoT-for-535203
 # By group สำนักติว IoT (กากๆ)
-Lab Test 8-10 ตุลาคม 2562
+Lab Test 
 - HDC1080
 1. http://arduinolearning.com/code/arduino-uno-hdc1080-humidity-temperature-sensor.php
 2. https://github.com/jshnaidman/HDC1080
