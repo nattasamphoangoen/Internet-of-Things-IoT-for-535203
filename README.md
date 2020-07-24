@@ -1,5 +1,4 @@
 # Internet-of-Things-IoT-for-Engineering
--By group สำนักติว IoT (กากๆ)
 
 Lab Test 
 - HDC1080
